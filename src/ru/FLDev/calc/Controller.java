@@ -13,7 +13,7 @@ public class Controller
 
     private boolean start = true;
     private String operator = "";
-    Model model = new Model();
+    private Model model = new Model();
 
     @FXML
     private void num(ActionEvent event)
